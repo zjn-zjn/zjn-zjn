@@ -7,8 +7,8 @@
 </div>
 
 <p align="center">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" alt="Coding Image"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zjn-zjn&layout=compact&theme=buefy&hide_border=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zjn-zjn&layout=compact&theme=buefy&hide_border=true" />
+  <img align="right" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" alt="Coding Image"/>
 </p>
 
 - ⚡ Java / Golang / C++ / C.
