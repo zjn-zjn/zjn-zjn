@@ -3,7 +3,7 @@
 ### Yoo, I'm Yufu 👋 
 
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=println(%22Hello%2C%20World%22);Waitmoon&center=true&size=27" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=println(%22Hello%2C%20World%22);%22Hello%2C%20World%22&center=true&size=27" alt="Typing SVG" />
 </div>
 
 <p align="center">
