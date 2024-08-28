@@ -6,9 +6,9 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=println(%22Hello%2C%20World%22);Waitmoon&center=true&size=27" alt="Typing SVG" />
 </div>
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" alt="Coding Image"/>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zjn-zjn&layout=compact&theme=buefy&hide_border=true" />
+<p align="center">
+  <img align="center" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" alt="Coding Image"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zjn-zjn&layout=compact&theme=buefy&hide_border=true" />
 </p>
 
 - ⚡ Java / Golang / C++ / C.
@@ -18,8 +18,7 @@
     <img src="https://komarev.com/ghpvc/?username=zjn-zjn&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
 </div> -->
 
-|<img align="center" src="https://github-readme-stats.vercel.app/api?username=zjn-zjn&show_icons=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zjn-zjn&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=zjn-zjn&show_icons=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> 
 
 ### Languages and Tools:  
 <div>
