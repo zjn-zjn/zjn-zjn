@@ -8,6 +8,7 @@
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" alt="Coding Image"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zjn-zjn&layout=compact&theme=buefy&hide_border=true" />
 </p>
 
 - ⚡ Java / Golang / C++ / C.
