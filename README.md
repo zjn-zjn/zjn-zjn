@@ -12,10 +12,6 @@
 
 - ⚡ Java / Golang / C++ / C.
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zjn-zjn&layout=compact&theme=buefy&hide_border=true" />
-</p>
-
 ### Languages and Tools:  
 <div>
   <img height="30" src="https://img.shields.io/badge/Java-orange.svg" />
