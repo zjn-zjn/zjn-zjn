@@ -12,10 +12,6 @@
 
 - ⚡ Java / Golang / C++ / C.
 
-<div>
-- ✍️
-    <img src="https://komarev.com/ghpvc/?username=zjn-zjn&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
-</div> 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zjn-zjn&layout=compact&theme=buefy&hide_border=true" />
 </p>
