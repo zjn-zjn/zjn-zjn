@@ -10,15 +10,12 @@
   <img align="center" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" alt="Coding Image"/>
 </p>
 
-- ⚡ Java / Golang / C++ / C.
+- ⚡ AI / Golang / Java / Python
 
 ### Languages and Tools:  
 <div>
-  <img height="30" src="https://img.shields.io/badge/Java-orange.svg" />
+  <img height="30" src="https://img.shields.io/badge/AI-orange.svg" />
   <img height="30" src="https://img.shields.io/badge/Golang-blue.svg" />
-  <img height="30" src="https://img.shields.io/badge/Flink-pink.svg" />
-  <img height="30" src="https://img.shields.io/badge/Redis-red.svg" />
-  <img height="30" src="https://img.shields.io/badge/Nginx-green.svg" />
-  <img height="30" src="https://img.shields.io/badge/Mysql-orange.svg" />
-  <img height="30" src="https://img.shields.io/badge/Linux-purple.svg" />
+  <img height="30" src="https://img.shields.io/badge/Java-pink.svg" />
+  <img height="30" src="https://img.shields.io/badge/Python-red.svg" />
 <div>
